@@ -1,8 +1,8 @@
-# Hi there, I'm Script Baker! 👋
+# Hi, I’m Script Baker 👋 — Python & Django Developer passionate about building scalable web apps.
 
 ## 🚀 About Me
 
-Passionate **Python Django Developer** with expertise in building scalable web applications and microservices. I love creating efficient, maintainable code and exploring new technologies in the Python ecosystem.
+I build scalable web applications and microservices with Python & Django. Obsessed with clean, maintainable code and exploring new tech in the Python ecosystem.
 
 - 🔭 Currently working on Django projects with modern integrations
 - 🌱 Learning and exploring **Microservices Architecture**, **Celery**, and **Reinforcement Learning**
