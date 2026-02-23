@@ -1,4 +1,4 @@
-# Hi, I’m Script Baker 👋 — Python & Django Developer passionate about building scalable web apps.
+# Hi, I’m — Python Backend Developer passionate about building scalable web apps.
 
 ## 🚀 About Me
 
